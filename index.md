@@ -1,5 +1,5 @@
 ---
-title: battery info
+title: Главная
 nav_order: 1
 permalink: /
 ---
