@@ -1,0 +1,13 @@
+remote_theme: konstantin-morenko/just-the-docs-reborn
+
+title: battery info
+description: |
+
+  Справочник о батареях, аккумуляторах и электрических технологиях
+
+aux_links:
+  "Константин Моренко":
+    - "https://konstantin-morenko.ru"
+
+ycnumber: 69954367
+mathjax: true
