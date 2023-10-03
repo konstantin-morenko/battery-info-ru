@@ -11,3 +11,8 @@ aux_links:
 
 ycnumber: 69954367
 mathjax: true
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-github-metadata
+  - jekyll-include-cache
