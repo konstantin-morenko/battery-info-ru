@@ -7,6 +7,7 @@ nav_order: 900
 
 - [Главная](index.md)
 - [Производство электрической энергии]({{site.baseurl}}{% link production/production.md %})
+  - [Источники энергии]({{site.baseurl}}{% link production/electrical_energy.md %})
 - [Химические элементы]({{site.baseurl}}{% link chemistries/chemistries.md %})
 - [Типы батарей]({{site.baseurl}}{% link battery-types/battery-types.md %})
   - [Поточные (проточные) батареи]({{site.baseurl}}{% link battery-types/flow.md %})
